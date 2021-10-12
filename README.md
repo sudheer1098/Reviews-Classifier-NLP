@@ -1,7 +1,7 @@
 # Reviews-Classifier-NLP
-Implement Natural Language Processing to classify reviews.
+### Implement Natural Language Processing to classify reviews.
 ## Introduction
-This is to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews.
+### This is to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews.
 
 ## [Yelp Review Data Set](https://www.kaggle.com/c/yelp-recsys-2013).
 
